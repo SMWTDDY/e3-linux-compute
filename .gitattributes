@@ -1,0 +1,1 @@
+benzene_old_dft.xyz filter=lfs diff=lfs merge=lfs -text
